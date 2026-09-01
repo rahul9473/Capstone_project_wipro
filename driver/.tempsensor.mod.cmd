@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/Downloads/Capstone_Project/driver/tempsensor.mod := { echo  /home/ubuntu/Downloads/Capstone_Project/driver/tempsensor.o;  echo; } > /home/ubuntu/Downloads/Capstone_Project/driver/tempsensor.mod

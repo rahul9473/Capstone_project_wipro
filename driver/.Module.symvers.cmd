@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/Downloads/Capstone_Project/driver/Module.symvers := sed 's/\.ko$$/\.o/' /home/ubuntu/Downloads/Capstone_Project/driver/modules.order | scripts/mod/modpost -m -a  -o /home/ubuntu/Downloads/Capstone_Project/driver/Module.symvers -e -i Module.symvers   -T -

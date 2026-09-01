@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/Downloads/Capstone_Project/driver/tempsensor.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/Downloads/Capstone_Project/driver/tempsensor.ko /home/ubuntu/Downloads/Capstone_Project/driver/tempsensor.o /home/ubuntu/Downloads/Capstone_Project/driver/tempsensor.mod.o;  true

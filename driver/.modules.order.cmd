@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/Downloads/Capstone_Project/driver/modules.order := {   echo /home/ubuntu/Downloads/Capstone_Project/driver/tempsensor.ko; :; } | awk '!x[$$0]++' - > /home/ubuntu/Downloads/Capstone_Project/driver/modules.order
